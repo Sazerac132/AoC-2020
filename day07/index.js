@@ -11,8 +11,6 @@ dotted black bags contain no other bags.
 */
 
 const fs = require('fs');
-
-
 const path = require('path');
 
 (async () => {
